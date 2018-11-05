@@ -86,6 +86,7 @@ def adding_matz
                :known_for => "Ruby",
                :languages => ["LISP", "C"]}}
     maz.merge(programmer_hash)    
+    
     programmer_hash
     
 end
